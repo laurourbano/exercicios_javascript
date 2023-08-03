@@ -12,13 +12,13 @@ Se você deseja contribuir com novos exercícios ou melhorias nos existentes, fi
 
 ## Lista de Exercícios
 
-- [Exercícios de Variáveis e Tipos de Dados](/exercicios/variaveis_e_tipos_de_dados)
-- [Exercícios de Estruturas de Controle](/exercicios/estruturas_de_controle)
-- [Exercícios de Funções](/exercicios/funcoes)
-- [Exercícios de Arrays](/exercicios/arrays)
-- [Exercícios de Objetos](/exercicios/objetos)
-- [Exercícios de Promises](/exercicios/promises)
-- [Exercícios de Async/Await](/exercicios/async_await)
+- [Exercícios de Variáveis e Tipos de Dados]
+- [Exercícios de Estruturas de Controle]
+- [Exercícios de Funções]
+- [Exercícios de Arrays]
+- [Exercícios de Objetos]
+- [Exercícios de Promises]
+- [Exercícios de Async/Await]
 
 ## Aprendendo mais
 
